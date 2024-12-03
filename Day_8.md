@@ -123,7 +123,37 @@ print(z)
 | setosa | 15.1 | 17.2 |
 | versicolor | 12.2 | 12.2 |
 
-# 12- content
+# 12- How to change color
+
+Example:
+
+This text color is normal
+
+<span style="color:red">
+"This text color is red
+</span>
+
+
+Another Example:
+<span style="color:blue">
+"This text color is blue
+</span>
+
+
+
+> We can change the color by using ("< span style="color:(write color)">write text< /span>")
+
+# 13 - Adding equations in Md
+> In-line math
+
+$this_{is}^{inline}$
+
+> Math Block
+
+$$ \int_0^\infty \frac{x^3}{e^x-1}\,dx= \frac{\pi^4}{15}$$
+
+
+# 14- content
 
 [1- Headings](#1--Headings)
 
@@ -147,7 +177,11 @@ print(z)
 
 [11- adding-tables](#11--adding-tables)
 
-[12- content](#12--content)
+[12- How to change color](#12--how-to-change-color)
+
+[13- Adding equations in Md](#13---adding-equations-in-md)
+
+[14- content](#14--content)
 
 
 
