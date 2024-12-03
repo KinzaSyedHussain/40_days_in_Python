@@ -130,13 +130,13 @@ Example:
 This text color is normal
 
 <span style="color:red">
-"This text color is red
+This text color is red
 </span>
 
 
 Another Example:
 <span style="color:blue">
-"This text color is blue
+This text color is blue
 </span>
 
 
